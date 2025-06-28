@@ -1,0 +1,4 @@
+{
+    "typescript.tsserver.maxTsServerMemory": 16384,
+    "editor.largeFileOptimizations": true
+}
